@@ -32,8 +32,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 For example:
 
-     git clone https://github.com/Your_Username/IOT-Projects
-.git
+     git clone https://github.com/Your_Username/IOT-Projects.git
 
 where Your_Username is your GitHub username. Here you're copying the contents of the Intelligent customer help desk with smart document understanding repository on GitHub to your computer.
 
